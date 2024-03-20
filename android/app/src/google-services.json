@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292233040618",
+    "firebase_url": "https://arduino-ecg-f7bf6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "arduino-ecg-f7bf6",
+    "storage_bucket": "arduino-ecg-f7bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292233040618:android:9c554ab1f33899c7e0bd93",
+        "android_client_info": {
+          "package_name": "com.example.ecg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292233040618-cfg4s8c92ltn7bt9e6sg622f7nt3n246.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFyXxOuwZ1hiIcxB6M81TKOiB7hiENA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292233040618-cfg4s8c92ltn7bt9e6sg622f7nt3n246.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
